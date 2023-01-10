@@ -1,0 +1,19 @@
+/*  */
+@font-face {
+    font-family: '04b_08';
+    src: url('../font/04b08.eot');
+    src: url('../font/04b08.eot') format('embedded-opentype'),
+        url('../font/04b08.ttf') format('truetype'),
+        url('http://www.a5b5.cn/skin/ecms268/fonts/04b08.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Arial';
+    src: url('http://www.a5b5.cn/skin/ecms268/fonts/arialmt.eot');
+    src: url('http://www.a5b5.cn/skin/ecms268/fonts/arialmt.eot') format('embedded-opentype'),
+        url('http://www.a5b5.cn/skin/ecms268/fonts/arialmt.ttf') format('truetype'),
+        url('http://www.a5b5.cn/skin/ecms268/fonts/arialmt.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
